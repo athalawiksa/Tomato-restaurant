@@ -37,5 +37,5 @@ Make sure you have Node.js and npm installed on your machine.
 Clone the repository:
 
 ```bash
-git clone https://github.com/athalawiksa/Tomato-restaurant.git
+git clone https://github.com/athalawiksa/tomato-restaurant.git
 
