@@ -39,4 +39,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/athalawiksa/Tomato-restaurant.git
 
-testes
